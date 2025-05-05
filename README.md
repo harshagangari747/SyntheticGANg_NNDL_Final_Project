@@ -56,7 +56,7 @@ indicate that the project is run on macOS until unless specified.
     Connect to the local jupyter server (python 3 kernel)
   </li>
   <li>
-    Extract the weights zip file to the same project directory. Ex: /Users/abc/GAN Project/weights/
+    Extract the weights zip file to the same project directory using the command <code>'unzip weights.zip' </code> (only for macOS). Ex: /Users/abc/GAN Project/weights/
   </li>
   <li>
     When running the python notebook, the prompt ask to chose a base directory. Give the path to the project directory. This directory is used to store all the results. Ex: /Users/abc/GAN Project
